@@ -15,6 +15,8 @@ Python-exercises-and-tests/
 |_ README.md
 |_ Input-Output-and-Variables - Basic initial exercises focusing on syntax
     |_ Exercise01greeting.py - Prints the entered user name
+    |_ Exercise02sum.py - Prints the sum of two determined numbers
+    |_ Exercise03parity.py - Identifies and prints if determined number is odd or even
 ```
 ## Author
 Renan Martins Ferreira
